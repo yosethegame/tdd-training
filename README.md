@@ -1,4 +1,4 @@
 tdd-training
 ============
 
-Open-source tdd course
+Open-source tdd course based on YoseTheGame
