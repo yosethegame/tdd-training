@@ -1,0 +1,27 @@
+# Introduction
+
+Introduce yourself and the agenda for the day
+* Introduction
+* PrimeFactor kata
+* YoseTheGame: the World PrimeFactor
+
+Capture the expectations and concerns the participants have for this session
+
+# PrimeFactor kata
+
+Share with the participants the intentions of the coding-dojos practice. 
+Share the following or another that makes mor esense for your
+* Learning by repetition
+* Create reflexes given a specific situation
+* pratice TDD
+* practice Refactoring
+* pratice your hability to identify code smells
+
+Share (draw / slide) your favorite TDD cycle. Might contain 3 or more steps.
+Example:
+* Test
+* Improve error message
+* Code
+* Refactor
+
+Might include a double loop having Refactor at the connection between the two loops
